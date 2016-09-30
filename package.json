@@ -1,0 +1,18 @@
+{
+  "name": "simpledb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require reify",
+    "test:watch": "mocha -w --require reify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "buble": "^0.14.0",
+    "chai": "^3.5.0",
+    "reify": "^0.3.8"
+  }
+}
