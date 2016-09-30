@@ -1,1 +1,1 @@
-# simpledb
+# simpledb [![Build Status](https://travis-ci.org/bdadam/simpledb.svg?branch=master)](https://travis-ci.org/bdadam/simpledb)
